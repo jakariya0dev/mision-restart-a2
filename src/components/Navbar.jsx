@@ -57,7 +57,7 @@ export default function () {
                 <a>Home</a>
               </li>
               <li>
-                <a>Faq 3</a>
+                <a>FAQ</a>
               </li>
               <li>
                 <a>Changelog</a>
