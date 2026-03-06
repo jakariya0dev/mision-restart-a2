@@ -2,6 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import Navbar from './components/Navbar'
+import Footer from './components/Footer'
+import Banner from './components/Banner'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -9,6 +11,10 @@ function App() {
   return (
     <div>
       <Navbar />
+      <main className='min-h-screen max-w-10/12 mx-auto my-10'>
+        <Banner />
+      </main>
+      <Footer />
     </div>
   )
 }
