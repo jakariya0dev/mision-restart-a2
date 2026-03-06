@@ -1,0 +1,110 @@
+[
+  {
+    "id": "TIC-101",
+    "title": "Login Timeout Issue",
+    "description": "Users reporting they are being logged out after 5 minutes of inactivity instead of the configured 30 minutes.",
+    "customer": "Global Tech Corp",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-01T08:30:00Z"
+  },
+  {
+    "id": "TIC-102",
+    "title": "Update Billing Address",
+    "description": "Customer needs to update their primary credit card and billing office location.",
+    "customer": "Jane Miller",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2026-03-01T10:15:00Z"
+  },
+  {
+    "id": "TIC-103",
+    "title": "API Documentation Error",
+    "description": "The endpoint /v1/auth/refresh is returning a 404 in the staging environment but works in production.",
+    "customer": "DevOps Solutions",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2026-03-02T09:00:00Z"
+  },
+  {
+    "id": "TIC-104",
+    "title": "Password Reset Failure",
+    "description": "The reset link sent via email is expired immediately upon arrival.",
+    "customer": "Samuel Reed",
+    "priority": "Urgent",
+    "status": "Open",
+    "createdAt": "2026-03-02T14:20:00Z"
+  },
+  {
+    "id": "TIC-105",
+    "title": "Feature Request: Dark Mode",
+    "description": "Customer is requesting a native dark mode for the dashboard to reduce eye strain.",
+    "customer": "Creative Designs Ltd",
+    "priority": "Low",
+    "status": "Backlog",
+    "createdAt": "2026-03-03T11:45:00Z"
+  },
+  {
+    "id": "TIC-106",
+    "title": "Slow Dashboard Loading",
+    "description": "Analytics page takes more than 10 seconds to render for accounts with large datasets.",
+    "customer": "DataCrunch Inc",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2026-03-03T16:10:00Z"
+  },
+  {
+    "id": "TIC-107",
+    "title": "Broken Image Links",
+    "description": "The profile picture upload is successful, but the image fails to display on the public profile.",
+    "customer": "Mark Stevenson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-03-04T08:05:00Z"
+  },
+  {
+    "id": "TIC-108",
+    "title": "Subscription Cancellation",
+    "description": "Customer wants to cancel their premium plan at the end of the current billing cycle.",
+    "customer": "Urban Greenery",
+    "priority": "Medium",
+    "status": "Closed",
+    "createdAt": "2026-03-04T13:30:00Z"
+  },
+  {
+    "id": "TIC-109",
+    "title": "Mobile App Crash on Launch",
+    "description": "App crashes on iOS 17.4 immediately after the splash screen appears.",
+    "customer": "Sarah Connor",
+    "priority": "Urgent",
+    "status": "Open",
+    "createdAt": "2026-03-05T07:50:00Z"
+  },
+  {
+    "id": "TIC-110",
+    "title": "Language Translation Bug",
+    "description": "The French translation for 'Submit' is showing as 'Undefined'.",
+    "customer": "EuroLease",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2026-03-05T10:00:00Z"
+  },
+  {
+    "id": "TIC-111",
+    "title": "Database Migration Inquiry",
+    "description": "Seeking information on how to migrate historical data from our legacy SQL server to this platform.",
+    "customer": "Enterprise Logistics",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-03-06T09:12:00Z"
+  },
+  {
+    "id": "TIC-112",
+    "title": "Two-Factor Auth Not Sending SMS",
+    "description": "Users in the UK region are not receiving their 2FA codes via SMS.",
+    "customer": "London FinTech",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-03-06T12:00:00Z"
+  }
+]
