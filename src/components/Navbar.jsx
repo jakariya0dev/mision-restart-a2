@@ -47,7 +47,7 @@ export default function () {
               </li>
             </ul>
           </div>
-          <a className="btn btn-ghost text-xl">CS - Ticket System</a>
+          <a href="/" className="text-xl font-semibold hover:text-purple-400 hover:cursor-pointer transition ease-in-out duration-300">CS - Ticket System</a>
         </div>
 
         <div className="navbar-end">
